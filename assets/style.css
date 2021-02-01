@@ -160,12 +160,28 @@ textarea{
 }
 .btn{
     width: 40%;
+    height: 60px;
     margin-right: auto;
     margin-left: auto;
     background: #f5d72d;
     color: aliceblue;
     font-size: smaller;
     font-weight: 600;
+}
+.modal-title{
+    font-size: xx-large;
+    font-weight: 900;
+    text-align: center;
+   
+
+
+}
+.modal-body{
+ color: #2d5cf5;
+ font-size: x-large;
+ font-weight: 700;
+ text-align: center;
+
 }
 
 @media (max-width: 724px){
